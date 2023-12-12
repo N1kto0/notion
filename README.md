@@ -1,3 +1,3 @@
-# notion
-Web app for notes
-https://www.youtube.com/watch?v=dQw4w9WgXcQ
+# Notion
+Multi-user web app for creating notes.
+
